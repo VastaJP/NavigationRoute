@@ -5,6 +5,6 @@
 Contenido:
 
 - [Enunciado del trabajo](src/main/resources/TrabajoFinal_route.pdf)
-- Diagrama UML:
+- Diagrama UML (provisorio):
     
 ![Diagrama](src/main/resources/UML%20-%20NavigationRoute.jpg)
